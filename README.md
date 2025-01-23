@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! I’m UndercoverBug
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! I’m Yatmelis Freites
 
 🚀 Python Developer | Data Analyst | Crypto Native | ML Student
 
@@ -10,22 +10,19 @@ For the past 5 years, I’ve been deep in the crypto trenches, exploring blockch
 
 📊 Current Focus:
 
-Mixing Python and JavaScript like a cocktail of awesome
-Diving into AI
+Learning JavaScript and R to boost up my tech profile
+Diving into AI and what it will bring into Blockchain
 
-🔗 Crypto + Data Analytics:
-
-Here’s where things get really interesting—I’m on a mission to intertwine the unpredictable world of crypto with the cold, hard logic of data analytics. Think of it as decoding the Matrix, but with more Python and fewer existential crises (or probably more 😅).
 
 🎯 What drives me:
 
-Clean, maintainable code (because spaghetti belongs on a plate, not in a codebase)
+Clean, maintainable code
 Solving complex problems with elegant solutions (or at least solutions that don’t break everything)
-Continuous learning and improvement (a.k.a. Googling stuff at 2 AM)
+Continuous learning and improvement
 
 🌱 Learning & Growing:
 
-I’m always curious about what’s next in tech, whether it’s machine learning, DevOps, or cloud computing. If there’s a new rabbit hole to dive into, you’ll probably find me at the bottom of it. I also love sharing what I learn, so expect the occasional blog or tutorial drop.
+I’m always curious about what’s next in tech, whether it’s machine learning, DevOps, or cloud computing. If there’s a new rabbit hole to dive into, you’ll probably find me at the bottom of it.
 
 🤝 Let’s Collaborate:
 I’m always open to teaming up on interesting projects—especially if they involve data science, web development, crypto, or automation. Got a wild idea? Let’s turn it into reality (or at least a really cool GitHub repo).
