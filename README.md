@@ -1,39 +1,19 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! I’m Yatmelis Freites
+# Hi, I'm Yatmelis 👋
 
-🚀 Python Developer | Data Analyst | Crypto Native | ML Student
+Data Analyst with hands-on experience in Python, SQL (MySQL & PostgreSQL), 
+and Power BI, passionate about turning raw data into actionable insights.
 
-💻  I love experimenting with new technologies and turning crazy ideas into code reality (because, why not?).
+Always curious, always learning — currently exploring new ways to apply 
+data analysis across different industries.
 
-💰 Crypto Enthusiast:
+## 🛠️ Tech Stack
+Python · SQL · MySQL · PostgreSQL · Power BI · Excel · Git · Bash
 
-For the past 5 years, I’ve been deep in the crypto trenches, exploring blockchain, DeFi, and contributing to projects. Whether it’s smart contracts, crypto analytics, or just figuring out how to explain Web3 to my parents, I’m always excited about what’s next in this wild, ever-evolving space.
-
-📊 Current Focus:
-
-Learning JavaScript and R to boost up my tech profile
-Diving into AI and what it will bring into Blockchain
-
-
-🎯 What drives me:
-
-Clean, maintainable code
-Solving complex problems with elegant solutions (or at least solutions that don’t break everything)
-Continuous learning and improvement
-
-🌱 Learning & Growing:
-
-I’m always curious about what’s next in tech, whether it’s machine learning, DevOps, or cloud computing. If there’s a new rabbit hole to dive into, you’ll probably find me at the bottom of it.
-
-🤝 Let’s Collaborate:
-I’m always open to teaming up on interesting projects—especially if they involve data science, web development, crypto, or automation. Got a wild idea? Let’s turn it into reality (or at least a really cool GitHub repo).
+## 📫 Let's connect
+[LinkedIn](https://www.linkedin.com/in/yatmelisfreites)
 
 LinkedIn: https://www.linkedin.com/in/yatmelisfreites
 
-Twitter: https://x.com/sol_wassie
-
-
-⚡ Fun Fact:
-When I’m not coding or exploring the crypto world, you’ll find me wandering through the city and playing the role of a barista, brewing good coffees at my happy place :) .
 
 ## 🔮 Tools, Technologies and Languages
 
