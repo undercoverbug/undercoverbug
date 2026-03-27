@@ -12,9 +12,6 @@ Python · SQL · MySQL · PostgreSQL · Power BI · Excel · Git · Bash
 ## 📫 Let's connect
 [LinkedIn](https://www.linkedin.com/in/yatmelisfreites)
 
-LinkedIn: https://www.linkedin.com/in/yatmelisfreites
-
-
 ## 🔮 Tools, Technologies and Languages
 
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
